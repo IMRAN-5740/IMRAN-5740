@@ -1,12 +1,12 @@
 <h1 align="center">Hi <img src="https://emojipedia-us.s3.amazonaws.com/source/noto-emoji-animations/344/waving-hand_1f44b.gif" height="55px" width="55px">, I'm MD. AMRAN MONDOL</h1>
 <h3 align="center">¯\_(ツ)_/¯
 
-Programmer | Content Creator | Learner
+ Learner | Programmer 
 
 ?></h3>
 <p align="center"> <img src="dev-working.gif" alt="MahbubDev"/> </p>
 
-- 🔭 I’m currently working on **Web Development**
+- 🔭 I’m currently working on **Full Stack Web Development**
 
 - 🌱 I’m currently learning **ASP DOT NET **
 
@@ -44,13 +44,13 @@ Programmer | Content Creator | Learner
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
+![Asp.Net](https://img.shields.io/badge/Asp.Net-Asp.Net-yellowgreen)&nbsp;
 <br />
 ### Profile Visitors 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=IMRAN-5740.visitor-badge&left_color=blue&right_color=yellow)
 <br />
 
-[![Mahbub's github activity graph](https://activity-graph.herokuapp.com/graph?username=IMRAN-5740&bg_color=ffffff&color=777777&line=ff5200&point=1adbce&area=true&hide_border=true)](https://github.com/IMRAN-5740/github-readme-activity-graph)
+[![Imran's github activity graph](https://activity-graph.herokuapp.com/graph?username=IMRAN-5740&bg_color=ffffff&color=777777&line=ff5200&point=1adbce&area=true&hide_border=true)](https://github.com/IMRAN-5740/github-readme-activity-graph)
 
 
 <h3 align="left">Languages and Tools:</h3>
