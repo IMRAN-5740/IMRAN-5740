@@ -48,6 +48,7 @@
 ![Asp.Net](https://img.shields.io/badge/Asp.Net-Asp.Net-yellowgreen)&nbsp;
 ![Visual Studio](https://img.shields.io/badge/MSStudio-Microsoft%20Visual%20Studio-green)&nbsp;
 ![.NET](https://img.shields.io/badge/ASP.NET%20CORE-.NET%20CORE-brightgreen)&nbsp;
+![MSSQL](https://img.shields.io/badge/MSSQL-Microsoft%20SQL-%234479A1)$nbsp;
 <br />
 ### Profile Visitors 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=IMRAN-5740.visitor-badge&left_color=blue&right_color=yellow)
