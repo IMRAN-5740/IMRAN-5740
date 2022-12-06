@@ -7,10 +7,10 @@
 
 <p align="center"> <img src="dev-working.gif" alt="MahbubDev"/> </p>
 
-- 🔭 I’m currently working on **Development**
+- 🔭 I’m currently working on **Web Development with .NET**
 - 👀 I’m interested in ...**Programming(C,C++,C#)**
 
-- 🌱 I’m currently learning **ASP.NET Core,MVC,API**
+- 🌱 I’m currently learning **ASP.NET**
 
 - 👯 I’m looking to collaborate on **Open Source**
 
