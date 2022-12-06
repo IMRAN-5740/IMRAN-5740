@@ -6,9 +6,10 @@
 ?></h3>
 <p align="center"> <img src="dev-working.gif" alt="MahbubDev"/> </p>
 
-- 🔭 I’m currently working on **Full Stack Web Development**
+- 🔭 I’m currently working on **@@@**
+- 👀 I’m interested in ...Programming
 
-- 🌱 I’m currently learning **ASP DOT NET **
+- 🌱 I’m currently learning **ASP.NET **
 
 - 👯 I’m looking to collaborate on **Open Source**
 
