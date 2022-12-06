@@ -51,7 +51,7 @@
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=IMRAN-5740.visitor-badge&left_color=blue&right_color=yellow)
 <br />
 
-[![Imran's github activity graph](https://activity-graph.herokuapp.com/graph?username=IMRAN-5740&bg_color=ffffff&color=777777&line=ff5200&point=1adbce&area=true&hide_border=true)](https://github.com/IMRAN-5740/github-readme-activity-graph)
+[![Imran's github activity graph](https://github.com/IMRAN-5740/IMRAN-5740/blob/main/material-palenight.svg)
 
 
 <h3 align="left">Languages and Tools:</h3>
