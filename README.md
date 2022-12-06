@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://github.com/NoobMahbub/NoobMahbub/blob/main/Wave.gif" height="55px" width="55px">, I'm MD. AMRAN MONDOL</h1>
+<h1 align="center">Hi <img src="[https://github.com/NoobMahbub/NoobMahbub/blob/main/Wave.gif](https://emojipedia-us.s3.amazonaws.com/source/noto-emoji-animations/344/waving-hand_1f44b.gif)" height="55px" width="55px">, I'm MD. AMRAN MONDOL</h1>
 <h3 align="center">¯\_(ツ)_/¯
 
 Programmer | Content Creator | Learner
