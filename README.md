@@ -29,12 +29,11 @@
 [<img align="left" alt="MD. AMRAN MONDOL | Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/906/906377.png" />][telegram]
 [<img align="left" alt="md-amran-mondol-05343721a | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="mohammadabdullahalimran | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
 <br />
 
 ### 🛠 &nbsp;Tech Stack
 
-![](https://img.shields.io/badge/C%23-C%20Sharp-orange)&nbsp;
+![C#](https://img.shields.io/badge/C%23-C%20Sharp-orange)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 
 
@@ -48,7 +47,7 @@
 ![Asp.Net](https://img.shields.io/badge/Asp.Net-Asp.Net-yellowgreen)&nbsp;
 ![Visual Studio](https://img.shields.io/badge/MSStudio-Microsoft%20Visual%20Studio-green)&nbsp;
 ![.NET](https://img.shields.io/badge/ASP.NET%20CORE-.NET%20CORE-brightgreen)&nbsp;
-![MSSQL](https://img.shields.io/badge/MSSQL-Microsoft%20SQL-%234479A1)$nbsp;
+![MSSQL](https://img.shields.io/badge/MSSQL-Microsoft%20SQL-%234479A1);
 <br />
 ### Profile Visitors 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=IMRAN-5740.visitor-badge&left_color=blue&right_color=yellow)
