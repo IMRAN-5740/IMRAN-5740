@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on **Web Development with .NET**
 - 👀 I’m interested in ...**Programming(C,C++,C#)**
 
-- 🌱 I’m currently learning **ASP.NET**
+- 🌱 I’m currently learning **C-Sharp ..ASP.NET**
 
 - 👯 I’m looking to collaborate on **Open Source**
 
