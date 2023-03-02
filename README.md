@@ -4,7 +4,8 @@
                                            ❤Quick Learner | Continuous Learner | Love to write Code❤
 
 
-Studying BSc Engineering in Computer Science and Engineering at Bangabandhu Sheikh Mujibur Rahman Science & Technology University
+                                                      Department of Computer Science and Engineering
+                                             Bangabandhu Sheikh Mujibur Rahman Science & Technology University
 
 
 <p align="center"> <img src="dev-working.gif" alt="MahbubDev"/> </p>
