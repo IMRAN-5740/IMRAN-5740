@@ -7,7 +7,7 @@
 Studying BSc Engineering in Computer Science and Engineering at Bangabandhu Sheikh Mujibur Rahman Science & Technology University
 
 
-
+<p align="center"> <img src="dev-working.gif" alt="MahbubDev"/> </p>
 Skills: C/ C++ /C# /ASP DOT NET MVC / JS / HTML / CSS
 
 - 🔭 I’m currently working on Learn with Microsoft Technologies(C#,DOT NET) 
