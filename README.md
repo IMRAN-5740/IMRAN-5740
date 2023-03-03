@@ -9,7 +9,7 @@
 
 
 <p align="center"> <img src="dev-working.gif" alt="MahbubDev"/> </p>
-Skills: C/ C++ /C# /ASP DOT NET MVC / JS / HTML / CSS
+Skills: C/ C++ /C# /ASP DOT NET MVC /Entity Framework/Ef Core JS / HTML / CSS
 
 - 🔭 I’m currently working on Learn with Microsoft Technologies(C#,DOT NET) 
 - 🌱 I’m currently learning ASP DOT NET 
