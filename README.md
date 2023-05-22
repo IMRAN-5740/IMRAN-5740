@@ -5,7 +5,7 @@
 
 
                                                       Department of Computer Science and Engineering
-                                             Bangabandhu Sheikh Mujibur Rahman Science & Technology University
+                                             Bangabandhu Sheikh Mujibur Rahman Science and Technology University
 
 
 <p align="center"> <img src="dev-working.gif" alt="MahbubDev"/> </p>
