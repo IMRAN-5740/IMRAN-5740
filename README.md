@@ -28,6 +28,7 @@ Skills: C/ C++ /C# /ASP DOT NET MVC//ASP DOT NET CORE MVC  /Entity Framework/Ent
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IMRAN-5740)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=IMRAN-5740&show_icons=true&count_private=true)  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IMRAN-5740)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=IMRAN-5740)  
 
