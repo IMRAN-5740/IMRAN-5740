@@ -29,3 +29,4 @@ Skills: C/ C++ /C# /ASP DOT NET MVC//ASP DOT NET CORE MVC  /Entity Framework/Ent
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=IMRAN-5740)  
 
 ![Profile views](https://gpvc.arturio.dev/IMRAN-5740)  
+curl https://profile-counter.glitch.me/{IMRAN-5740}/count.svg
