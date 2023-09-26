@@ -18,6 +18,7 @@ Skills: C/ C++ /C# /ASP DOT NET MVC//ASP DOT NET CORE MVC  /Entity Framework/Ent
 - 💬 Ask me about DOT NET 
 - 📫 How to reach me: imranbsmrstucse@gmail.com 
 
+![MD. AMRAN MONDOL](https://komarev.com/ghpvc/?username=IMRAN-5740)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/IMRAN-5740)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/imran5740.cse.bsmrstu/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/@IMRAN57401/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/21319025/mhammad-imran)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/@ReadLineAcademy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](www.youtube.com/@ReadLineAcademy)  
 
@@ -27,4 +28,3 @@ Skills: C/ C++ /C# /ASP DOT NET MVC//ASP DOT NET CORE MVC  /Entity Framework/Ent
 ![GitHub metrics](https://metrics.lecoq.io/IMRAN-5740)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=IMRAN-5740)  
-![MD. AMRAN MONDOL](https://komarev.com/ghpvc/?username=IMRAN-5740)
