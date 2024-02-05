@@ -26,5 +26,3 @@ Skills: C/ C++ /C# /ASP DOT NET MVC//ASP DOT NET CORE MVC/Asp net Core Web Api/.
 ![Imran's GitHub stats](https://github-readme-stats.vercel.app/api?username=IMRAN-5740&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=IMRAN-5740)](https://github.com/IMRAN-5740/github-readme-stats)
 ![GitHub metrics](https://metrics.lecoq.io/IMRAN-5740)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=IMRAN-5740)  
