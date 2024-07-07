@@ -13,7 +13,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imran-5740" alt="imran-5740" /></a> </p>
 
-- 🔭 I’m currently working on **BSMRSTU Digital Diary**
+- 🔭 I’m currently working on **Laboratory Information System that build on Desktop Based Application**
 
 - 🌱 I’m currently learning **ASP Dot Net**
 
