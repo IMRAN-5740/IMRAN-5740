@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm MD. AMRAN MONDOL</h1>
+<h1 align="center">Hi 👋, I'm MD. IMRAN MONDOL</h1>
 
 
                                                           ❤❤ Learner-Programmer❤❤
@@ -13,8 +13,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imran-5740" alt="imran-5740" /></a> </p>
 
-- 🔭 I’m currently working on **Laboratory Information System that build on Desktop Based Application**
-
+- 🔭 I’m currently working on **Laboratory Information System that builds on Desktop Based Application**
+- 🌱 My Native language C-Shirp (C#)
 - 🌱 I’m currently learning **ASP Dot Net**
 
 - 👯 I’m looking to collaborate on **ASP .Net Core,SQL,.Net Maui**
