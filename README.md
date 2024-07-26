@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working on **Laboratory Information System that builds on Desktop Based Application**
 - 🌱 My Native language C-Shirp (C#)
-- 🌱 I’m currently learning **ASP Dot Net**
+- 🌱 I’m currently learning **ASP Dot Net Core and two formate for Health Industries ASTM and HL7**
 
 - 👯 I’m looking to collaborate on **ASP .Net Core,SQL,.Net Maui**
 
