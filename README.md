@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm MD. IMRAN MONDOL</h1>
+<h1 align="center">Hi 👋, I'm Md. Imran Mondol</h1>
 
 
                                                           ❤❤ Learner-Programmer❤❤
