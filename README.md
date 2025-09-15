@@ -5,9 +5,12 @@
                                                 ❤ Love to work with Microsoft Technologies ❤
                                            ❤Quick Learner | Continuous Learner | Love to write Code❤
 <h3 align="center">A passionate backend developer(C#,.Net) from Bangladesh</h3>
+                                                                       Experts in:
+                                                          �Laboratory Information System(LIS)
+                                                    �Picture Archiving and Communication System (PACS)
 
                                                       Department of Computer Science and Engineering
-                                             Bangabandhu Sheikh Mujibur Rahman Science and Technology University
+                                                        Gopalganj Science and Technology University
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imran-5740&label=Profile%20views&color=0e75b6&style=flat" alt="imran-5740" /> </p>
 
