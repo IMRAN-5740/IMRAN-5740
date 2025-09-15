@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Md. Imran Mondol</h1>
 
 
-                                                          ❤❤ Learner-Programmer❤❤
-                                                ❤ Love to work with Microsoft Technologies ❤
-                                           ❤Quick Learner | Continuous Learner | Love to write Code❤
-<h3 align="center">A passionate backend developer(C#,.Net) from Bangladesh</h3>
+                                                              ❤❤ Learner-Programmer❤❤
+                                                    ❤ Love to work with Microsoft Technologies ❤
+                                               ❤Quick Learner | Continuous Learner | Love to write Code❤
+                                                               
+                                      <h3 align="center">A passionate backend developer(C#,.Net) from Bangladesh</h3>
                                                                        Experts in:
                                                           �Laboratory Information System(LIS)
                                                     �Picture Archiving and Communication System (PACS)
